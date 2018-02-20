@@ -1,0 +1,21 @@
+.container{
+    border: solid red;
+}
+
+.container-fluid{
+    border: solid blue;
+}
+
+.elemento{
+    border: solid blue;
+}
+
+.contenedor-flex{
+    border: solid #FFD000;
+    height: 150px;
+}
+
+.cuadro{
+    height: 300px;
+    width: 300px;
+}
